@@ -29,4 +29,4 @@ If you haven't already you're going to need to edit the **computercraft-server.t
 ```
 
 ## Bug Reporting
-Please report any bugs you may find here :)
+Please report any bugs you may find [here](https://github.com/Breezy121/ComputerCraft-LocalHost/issues) :)
