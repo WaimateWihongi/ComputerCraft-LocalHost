@@ -14,10 +14,10 @@ localhost run [PORT] [ARGS]
 ## Installing
 ### Client
 You can use ```pastebin get 9hLpCTHF localhost``` on your ComputerCraft Computer/Turtle in order to upload the client script to Minecraft.
-Also, You may need to edit the ComputerCraft config files in order for this to work.
+Also, *You may need to [edit the ComputerCraft config files](#editing-computercraft-config-file) in order for this to work*.
 
 ### WebServer
-I have included a python script in the **server** folder in order to get your local server up and running. Any webserver script will do as long as it runs on `127.0.0.1` or `localhost` The python script runs on Python 3.7 and should run without needing to install any modules!
+I have included a python script in the [server folder](server/) in order to get your local server up and running. Any webserver script will do as long as it runs on `127.0.0.1` or `localhost` The python script runs on Python 3.7 and should run without needing to install any modules!
 
 
 ## Editing ComputerCraft Config File
